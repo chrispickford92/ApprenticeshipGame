@@ -11,8 +11,9 @@ namespace DungeonMaster
         //Load map function
         public static void LoadMap()
         {
+            
             string mapText = File.ReadAllText(@"Map\Map.txt");
-            MapOne = mapText.Split(Environment.NewLine);
+            MapOne = mapText.Replace(Environment.NewLine, "").Replace("\n", "").Split(";");
         }
 
             public static bool IsWall(int x,int y)
