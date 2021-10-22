@@ -29,7 +29,7 @@ namespace DungeonMaster
         public bool Move()
         {
             Console.Clear();
-            
+            Console.WriteLine("Hi line 32" + positionXIndex + " "+ positionXIndex);
            
             Console.WriteLine("\nUse W, A, S, D to move around the room\n");
             Console.WriteLine("\nW = Up");
