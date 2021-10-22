@@ -1,0 +1,13 @@
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\bin\Debug\netcoreapp2.1\ChrisDungeon.deps.json
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\bin\Debug\netcoreapp2.1\ChrisDungeon.runtimeconfig.json
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\bin\Debug\netcoreapp2.1\ChrisDungeon.runtimeconfig.dev.json
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\bin\Debug\netcoreapp2.1\ChrisDungeon.dll
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\bin\Debug\netcoreapp2.1\ChrisDungeon.pdb
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\obj\Debug\netcoreapp2.1\ChrisDungeon.AssemblyInfoInputs.cache
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\obj\Debug\netcoreapp2.1\ChrisDungeon.AssemblyInfo.cs
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\obj\Debug\netcoreapp2.1\ChrisDungeon.csproj.CoreCompileInputs.cache
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\obj\Debug\netcoreapp2.1\ChrisDungeon.dll
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\obj\Debug\netcoreapp2.1\ChrisDungeon.pdb
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\obj\Debug\netcoreapp2.1\ChrisDungeon.genruntimeconfig.cache
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\obj\Debug\netcoreapp2.1\ChrisDungeon.csproj.AssemblyReference.cache
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\ChrisDungeon\obj\Debug\netcoreapp2.1\ChrisDungeon.GeneratedMSBuildEditorConfig.editorconfig

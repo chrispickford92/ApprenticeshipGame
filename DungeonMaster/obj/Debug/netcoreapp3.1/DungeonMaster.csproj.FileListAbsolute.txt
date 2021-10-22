@@ -1,0 +1,16 @@
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\bin\Debug\netcoreapp3.1\DungeonMaster.exe
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\bin\Debug\netcoreapp3.1\DungeonMaster.deps.json
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\bin\Debug\netcoreapp3.1\DungeonMaster.runtimeconfig.json
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\bin\Debug\netcoreapp3.1\DungeonMaster.runtimeconfig.dev.json
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\bin\Debug\netcoreapp3.1\DungeonMaster.dll
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\bin\Debug\netcoreapp3.1\DungeonMaster.pdb
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\obj\Debug\netcoreapp3.1\DungeonMaster.csproj.AssemblyReference.cache
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\obj\Debug\netcoreapp3.1\DungeonMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\obj\Debug\netcoreapp3.1\DungeonMaster.AssemblyInfoInputs.cache
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\obj\Debug\netcoreapp3.1\DungeonMaster.AssemblyInfo.cs
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\obj\Debug\netcoreapp3.1\DungeonMaster.csproj.CoreCompileInputs.cache
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\obj\Debug\netcoreapp3.1\DungeonMaster.dll
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\obj\Debug\netcoreapp3.1\DungeonMaster.pdb
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\obj\Debug\netcoreapp3.1\DungeonMaster.genruntimeconfig.cache
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Chris.pickford\Desktop\Appreticeship\Final Project\ChrisDungeon\DungeonMaster\bin\Debug\netcoreapp3.1\Map\Map.txt
